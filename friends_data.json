@@ -1,0 +1,41 @@
+{
+    "students" : [
+        {
+            "name" : "anisul islam",
+            "middlename": null,
+            "isRegistered": true,
+            "age": 23,
+            "cgpa": 3.33,
+            "languages": ["Bengali", "English", "Hindi"],
+            "friends": [
+                {
+                    "name": "aaa",
+                    "age": 21
+                },
+                {
+                    "name": "bbb",
+                    "age": 24
+                }
+            ]
+        },
+        
+        {
+            "name" : "rabeya islam",
+            "middlename": null,
+            "isRegistered": false,
+            "age": 28,
+            "cgpa": 3.92,
+            "languages": ["Bengali", "English", "Hindi"],
+            "friends": [
+                {
+                    "name": "ccc",
+                    "age": 21
+                },
+                {
+                    "name": "ddd",
+                    "age": 25
+                }
+            ]
+        }
+    ]
+}
